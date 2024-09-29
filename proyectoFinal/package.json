@@ -1,5 +1,5 @@
 {
-  "name": "proyectofinal",
+  "name": "integrador_html_css_js",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "vite": "^5.4.1"
+  },
+  "dependencies": {
+    "sweetalert2": "^11.14.0"
   }
 }
