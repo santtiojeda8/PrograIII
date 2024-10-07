@@ -30,6 +30,7 @@ export const ListProduct : FC <IPropsListProducts> = ( {arrayItems} ) => {
                     </Card.Body>
                 </Card>
             ))}
+            
         </div>
     )
 }
